@@ -52,7 +52,7 @@ if os.name == 'nt' or sys.platform == 'win32':
    =============================================================
    \n'''
 
-print(intro)
+# print(intro)
 
 try:
    from bs4 import BeautifulSoup, UnicodeDammit
